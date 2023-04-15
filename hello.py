@@ -11,3 +11,7 @@ print(hello)
 # 2nd update locally....
 
 # 3rd update locally....
+
+# update done here(after 6th update remotely)
+a = input("Enter your number")
+print(a ** 2)
